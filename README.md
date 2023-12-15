@@ -28,6 +28,43 @@ Implement algorithms for investment analysis and decision-making.
 # Data Visualization:
 
 Use Seaborn and Matplotlib to generate informative visualizations.
+# OUTPUT
+
+### The division of fund
+![The division of fund](https://github.com/sumitroy5/Investment-Advisor/assets/137485553/0514e7a8-11f6-4044-b6df-965ac6235416)
+
+### The Dision of fund into defferent company
+
+![Division of fund into defferent company](https://github.com/sumitroy5/Investment-Advisor/assets/137485553/5fd00230-23fb-443b-9801-b8788a668096)
+
+### Median of different sector to enterprise value
+
+![Median of different sectors to enterprise value](https://github.com/sumitroy5/Investment-Advisor/assets/137485553/b16797a2-66d1-412a-940c-9372ed7a7386)
+
+### Companies accroding to the KPI
+
+![Companies accroding to the KPI](https://github.com/sumitroy5/Investment-Advisor/assets/137485553/9d66d2a5-0c70-4245-8820-e272c2497494)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Create interactive plots to facilitate better understanding of investment trends.
 
 # Google Sheets Integration:
