@@ -10,6 +10,9 @@ Leverage NumPy for efficient numerical operations in the project.
 Create insightful visualizations to aid in data interpretation.
 # Google Sheets Integration: 
 Seamlessly integrate Google Sheets for collaborative data storage and sharing.
+
+https://docs.google.com/spreadsheets/d/1TapihqQ2ocvJU0Sbg5YQabKdae2rjdyVdBURf2W7Bmo/edit?usp=sharing
+
 # Key Components
 
 # Data Processing:
